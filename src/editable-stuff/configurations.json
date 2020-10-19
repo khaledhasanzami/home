@@ -1,40 +1,28 @@
 {
-  "backgroundType": "gradient",
+  "backgroundType": "red",
   "plainBackgroundMode": "daylight",
   "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
-  "FirstName": "Hashir",
+  "FirstName": "Md Khaled",
   "MiddleName": "",
-  "LastName": "Shoaib",
-  "devDesc": "| Engineer | Programmer | Web Developer | Photographer | Athlete | Artist ",
+  "LastName": "Hasan",
+  "devDesc": "| Engineer | Data Scientist | Machine Learning Engineer",
   "icons": [
     {
       "id": 0,
       "image": "fa-github",
-      "url": "https://github.com/hashirshoaeb",
+      "url": "https://github.com/khaledhasanzami",
       "style": "socialicons"
     },
     {
       "id": 1,
       "image": "fa-facebook",
-      "url": "https://www.facebook.com/hashirshoaeb",
+      "url": "https://www.facebook.com/mdkhaledhasan.zami.75",
       "style": "socialicons"
     },
     {
       "id": 2,
-      "image": "fa-instagram",
-      "url": "https://www.instagram.com/hashirshoaeb/",
-      "style": "socialicons"
-    },
-    {
-      "id": 3,
       "image": "fa-linkedin",
-      "url": "https://www.linkedin.com/in/hashirshoaeb/",
-      "style": "socialicons"
-    },
-    {
-      "id": 4,
-      "image": "fa-twitter",
-      "url": "https://www.twitter.com/hashirshoaeb/",
+      "url": "https://www.linkedin.com/in/md-khaled-hasan-zami-494540b1/",
       "style": "socialicons"
     }
   ],
